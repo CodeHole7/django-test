@@ -1,0 +1,3 @@
+/data
+celerybeat-schedule
+.env
